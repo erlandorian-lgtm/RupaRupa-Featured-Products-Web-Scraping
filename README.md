@@ -6,7 +6,7 @@ A web scraper that extract discounted product data (name, pricing, discount %, r
 
 ## Why this is different from a typical scraping tutorial
 
-Unlike from books.toscrape.com / quotes.toscrape.com which already in a clean and static state. This project scrapes **Rupa - Rupa website** - a **real, live commercial site** - which introduced problems a sandbox never would: 
+Unlike from books.toscrape.com / quotes.toscrape.com which are already in a clean and static state. This project scrapes **Rupa - Rupa website** - a **real, live commercial site** - which introduced problems a sandbox never would: 
 
 **robots.txt, checked first** - confirmed the target page wasn't disallowed for scraping.
 **JavaScript-rendered content** - the page uses lazy-loading, which a basic 'request.get()' couldn't retrieve all the product from the featured page. Confirmed by comparing the count in raw page vs the browser's live DOM.
