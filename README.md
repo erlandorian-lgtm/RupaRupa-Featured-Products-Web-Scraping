@@ -1,4 +1,4 @@
-<img width="513" height="81" alt="image" src="https://github.com/user-attachments/assets/016a6d33-1ec3-4109-b474-5c110f59946d" /># RupaRupa-Featured-Products-Web-Scraping
+# RupaRupa-Featured-Products-Web-Scraping
 
 A web scraper that extract discounted product data (name, pricing, discount %, rating, review count, product link, and image) from a real, live e-commerce promo page — [Ruparupa's 9.9 sale page] (https://www.ruparupa.com/ms/promo-9-9)
 
